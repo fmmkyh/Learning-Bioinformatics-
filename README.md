@@ -1,4 +1,4 @@
-# Dokumentasi Proyek Transkriptomik - Bioinformatics Research Starter Program
+# Dokumentasi Proyek Transkriptomik - Bioinformatics Research Starter Program (BRSP) by OmicsLite
 <p>Proses belajar kurang lebih berjalan sebulan dan dilaksanakan melalui Google Classroom.</p>
 <ol>  
   <li>Week 1: Memahami dan merangkum paper berbahasa Inggris terkait <m>transcriptomics</m>.</li>
